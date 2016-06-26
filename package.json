@@ -1,0 +1,25 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "DevOps Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DevOps",
+    "TechMaster"
+  ],
+  "author": "Nguyen Manh Dung",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "config": "^1.21.0",
+    "express": "^4.13.4",
+    "js-yaml": "^3.6.1",
+    "mongoose": "^4.5.1",
+    "swagger-editor": "^2.9.9",
+    "winston": "^2.2.0",
+    "yaml": "^0.3.0"
+  }
+}
